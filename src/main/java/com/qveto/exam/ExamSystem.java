@@ -1,6 +1,6 @@
-package com.qveto;
+package com.qveto.exam;
 
-public class Main {
+public class ExamSystem {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
